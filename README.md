@@ -1,0 +1,1 @@
+you are given an in teger array 'A' of dsize 'n'. sorted in non-decresing ordered. you also given an integer 'target'. you task is to write a function of search for target in the array 'A'. if it exist written its index in zero base indexing using linear search in c++,python,java,
